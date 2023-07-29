@@ -2,8 +2,6 @@
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://opensource.org/licenses/MIT)
 
-Please use the latest version 2.x. Versions prior to are deprecated with bugs.
-
 | Version | Compatible |
 |--------------------------|-------------------------------|
 | ^5.x  | MUI   |
